@@ -1,15 +1,15 @@
 # Veridex
 
-**Veridex** is an Agentic AI research assistant that performs web-based research, product comparisons, and generates source-backed recommendations using multiple LLMs.
+Veridex is an AI-powered research and comparison agent that performs web-based research, analyzes information from multiple sources, and generates detailed comparison and recommendation reports using large language models.
 
 ## Features
 
-* 🔍 AI-powered product research
-* 📊 Automated product comparison reports
-* 🌐 Real-time web search integration
-* 🤖 Multi-LLM support (Gemini, Groq)
-* 📝 Search history tracking
-* 🎨 Interactive Streamlit interface
+* AI-powered product research
+* Automated product comparison reports
+* Real-time web search integration
+* Multi-LLM support (Gemini, Groq)
+* Search history tracking
+* Interactive Streamlit interface
 
 ## Tech Stack
 
