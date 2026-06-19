@@ -25,8 +25,8 @@
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c9d1bba-faa5-491d-8342-c93065f39540" width="400"/>
   <img src="https://github.com/user-attachments/assets/53bb9c5f-6879-4d7a-b5b6-1bb0786d807b" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5c9d1bba-faa5-491d-8342-c93065f39540" width="400"/>
 </p>
 
 <p align="center">
