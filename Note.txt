@@ -1,0 +1,10 @@
+# add packages
+pip install streamlit requests chromadb beautifulsoup4 ddgs python-dotenv google-genai groq
+
+# List all installed packages
+pip list
+# for specific
+pip show streamlit
+
+# run project
+streamlit run app.py
